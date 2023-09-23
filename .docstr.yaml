@@ -1,0 +1,11 @@
+paths:
+  - example
+verbose: 3 # int (0-3)
+skip_magic: True
+skip_file_doc: False
+skip_init: True
+skip_class_def: False
+skip_private: True
+follow_links: True
+#ignore_names_file: .*/test # regex
+percentage_only: False
