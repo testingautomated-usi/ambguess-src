@@ -1,4 +1,7 @@
 # True Ambiguity - Paper: Reproduction Package
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8373081.svg)](https://doi.org/10.5281/zenodo.8373081)
+
 This is the replication package for our paper "Generating and Detecting True Ambiguity: A Forgotten Danger in DNN Supervision Testing", accepted at EMSE.
 
 A preprint is available on [arXiv](https://arxiv.org/abs/2207.10495).
