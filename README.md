@@ -7,7 +7,7 @@ A preprint is available on [arXiv](https://arxiv.org/abs/2207.10495).
 If you are not interested in our sources, but just in the released datasets, you can find them here:
 - [MNIST-Ambiguous on Huggingface Datasets](https://huggingface.co/datasets/mweiss/mnist_ambiguous)
 - [Fashion-Mnist-Ambiguous on Huggingface Datasets](https://huggingface.co/datasets/mweiss/fashion_mnist_ambiguous)
-- [testingautomated-usi/ambiguous-datasets repo](https://github.com/testingautomated-usi/ambiguous-datasets)
+- [testingautomated-usi/ambiguous-datasets repo](https://github.com/testingautomated-usi/ambiguous-datasets) (serialized numpy arrays attached to github release)
 
 ## Dependencies
 On your machine, you'll need the following requirements:
