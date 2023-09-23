@@ -1,6 +1,8 @@
 # True Ambiguity - Paper: Reproduction Package
 This is the replication package for our paper "Generating and Detecting True Ambiguity: A Forgotten Danger in DNN Supervision Testing", accepted at EMSE.
 
+A preprint is available on [arXiv](https://arxiv.org/abs/2207.10495).
+
 ## Access to precompiled datasets
 If you are not interested in our sources, but just in the released datasets, you can find them here:
 - [MNIST-Ambiguous on Huggingface Datasets](https://huggingface.co/datasets/mweiss/mnist_ambiguous)
